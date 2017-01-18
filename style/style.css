@@ -1,0 +1,21 @@
+.app {
+    margin-top: 20px;
+}
+
+.post-new-form input {
+    width: 30%;
+}
+
+.post-new-form-cancel-btn {
+    margin-left: 1em;
+}
+
+.posts-list-item {
+    cursor: pointer;
+    border-left: none;
+    border-right: none;
+}
+
+.posts-index-list-container{
+    margin-top: 3em;
+}
